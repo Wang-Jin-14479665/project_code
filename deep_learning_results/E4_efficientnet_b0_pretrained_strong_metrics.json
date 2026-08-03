@@ -1,0 +1,21 @@
+{
+  "top1_accuracy": 0.7216,
+  "top5_accuracy": 0.8986,
+  "macro_precision": 0.7438267907960633,
+  "macro_recall": 0.7216,
+  "macro_f1": 0.7177035753339935,
+  "inference_seconds": 29.035678951999216,
+  "images_per_second": 172.20193157066615,
+  "num_test_images": 5000,
+  "experiment_name": "E4_efficientnet_b0_pretrained_strong",
+  "architecture": "efficientnet_b0",
+  "pretrained": true,
+  "augmentation": "strong",
+  "epochs_completed": 12,
+  "best_val_macro_f1": 0.7085023502568357,
+  "training_seconds": 2817.28202393,
+  "total_parameters": 4648048,
+  "trainable_parameters": 4648048,
+  "run_mode": "full",
+  "seed": 42
+}

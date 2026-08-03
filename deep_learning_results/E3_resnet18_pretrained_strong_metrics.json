@@ -1,0 +1,21 @@
+{
+  "top1_accuracy": 0.5636,
+  "top5_accuracy": 0.7974,
+  "macro_precision": 0.6132058640302602,
+  "macro_recall": 0.5635999999999999,
+  "macro_f1": 0.5541595251652353,
+  "inference_seconds": 25.2023353149998,
+  "images_per_second": 198.39431296766077,
+  "num_test_images": 5000,
+  "experiment_name": "E3_resnet18_pretrained_strong",
+  "architecture": "resnet18",
+  "pretrained": true,
+  "augmentation": "strong",
+  "epochs_completed": 12,
+  "best_val_macro_f1": 0.5458553619341495,
+  "training_seconds": 2621.508599765,
+  "total_parameters": 11433012,
+  "trainable_parameters": 11433012,
+  "run_mode": "full",
+  "seed": 42
+}

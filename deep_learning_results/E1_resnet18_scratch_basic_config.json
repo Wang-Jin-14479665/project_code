@@ -1,0 +1,17 @@
+{
+  "name": "E1_resnet18_scratch_basic",
+  "architecture": "resnet18",
+  "pretrained": false,
+  "augmentation": "basic",
+  "epochs": 25,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 6,
+  "seed": 42,
+  "image_size": 224,
+  "num_classes": 500,
+  "train_images": 20000,
+  "val_images": 5000,
+  "test_images": 5000,
+  "checkpoint": "/content/drive/MyDrive/COMP9517/deep_learning_results/E1_resnet18_scratch_basic_best.pt"
+}

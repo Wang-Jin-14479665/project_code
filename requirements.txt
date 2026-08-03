@@ -1,0 +1,21 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+torch==2.13.0+cu132
+torchvision==0.28.0+cu132
+
+numpy==2.4.4
+pandas==3.0.5
+matplotlib==3.11.1
+pillow==12.2.0
+opencv-python==5.0.0.93
+scikit-learn==1.9.0
+scikit-image==0.26.0
+scipy==1.18.0
+
+jupyter==1.1.1
+ipykernel==7.3.0
+tqdm==4.70.0
+PyYAML==6.0.3
+
+seaborn==0.13.2
+tensorboard==2.21.0

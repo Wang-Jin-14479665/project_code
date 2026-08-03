@@ -1,0 +1,17 @@
+{
+  "name": "E2_resnet18_pretrained_basic",
+  "architecture": "resnet18",
+  "pretrained": true,
+  "augmentation": "basic",
+  "epochs": 12,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "patience": 4,
+  "seed": 42,
+  "image_size": 224,
+  "num_classes": 500,
+  "train_images": 20000,
+  "val_images": 5000,
+  "test_images": 5000,
+  "checkpoint": "/content/drive/MyDrive/COMP9517/deep_learning_results/E2_resnet18_pretrained_basic_best.pt"
+}

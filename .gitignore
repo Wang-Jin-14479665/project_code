@@ -1,0 +1,79 @@
+# ============================================================
+# COMP9517 project - Git ignore rules
+# ============================================================
+
+# ----------------------------
+# Large datasets
+# ----------------------------
+shared_dataset_seed9517/
+shared_dataset_seed9517.zip
+data.tar
+
+/data.tar
+/data/
+data/*.tar
+data/*.tar.gz
+data/*.zip
+data/subset_500/
+
+# ----------------------------
+# PyTorch model checkpoints
+# ----------------------------
+/deep_learning_results/**/*.pt
+*.pth
+*.ckpt
+
+checkpoints/
+
+# ----------------------------
+# Generated training/runtime output directories
+# Keep CSV/JSON analysis results in deep_learning_results if desired.
+# ----------------------------
+outputs/
+runs/
+wandb/
+lightning_logs/
+
+# ----------------------------
+# Python cache / build files
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# IDE / editor files
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS-generated files
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----------------------------
+# Temporary files
+# ----------------------------
+*.tmp
+*.temp
+*.log
+~$*
