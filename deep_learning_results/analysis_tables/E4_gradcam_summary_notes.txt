@@ -1,0 +1,15 @@
+E4 Grad-CAM summary
+Sample: 40 correct / 40 incorrect
+
+Center energy ratio:
+  correct   = 0.394 ± 0.210
+  incorrect = 0.139 ± 0.095
+  Mann-Whitney p = 2.50482e-09
+
+Focus score:
+  correct   = 0.029 ± 0.020
+  incorrect = 0.056 ± 0.030
+  Mann-Whitney p = 5.70572e-06
+
+Top-3 confused-pair examples:
+  mean true-vs-pred CAM cosine overlap = 0.701

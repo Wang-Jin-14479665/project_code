@@ -1,0 +1,7 @@
+true_class_id,true_species,predicted_class_id,predicted_species,pair_error_count,example_image,true_vs_pred_cam_overlap,saved_path
+345,Myosotis latifolia,346,Myosotis scorpioides,6,images/test/345/dbc5aee2-248f-4da5-b40d-e1cb40da19d3.jpg,0.6639957417550234,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_345_to_346_ex1.png
+345,Myosotis latifolia,346,Myosotis scorpioides,6,images/test/345/21778f4a-271f-4c6a-a2f4-9c8451d007d9.jpg,0.8150452269842211,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_345_to_346_ex2.png
+410,Ajuga reptans,409,Ajuga genevensis,6,images/test/410/0eca21de-4861-49b1-93c0-3a81854c50cf.jpg,0.5254478924769252,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_410_to_409_ex1.png
+410,Ajuga reptans,409,Ajuga genevensis,6,images/test/410/162e93c5-5948-483e-88a9-a3406f91fbe6.jpg,0.45322505162345456,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_410_to_409_ex2.png
+117,Enallagma cyathigerum,118,Enallagma geminatum,5,images/test/117/001a6db4-6951-40ee-b89c-a3c3eb9c6c89.jpg,0.7671448872442996,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_117_to_118_ex1.png
+117,Enallagma cyathigerum,118,Enallagma geminatum,5,images/test/117/a80b02cd-0102-4d78-b07b-fa4dbe850b21.jpg,0.983396883361199,/content/drive/MyDrive/COMP9517/deep_learning_results/analysis_figures/gradcam_merged/pair_117_to_118_ex2.png
