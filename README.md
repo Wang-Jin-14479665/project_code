@@ -12,7 +12,6 @@ The dataset used by these notebooks is `shared_dataset_seed9517` and is expected
 
 The datasets used in the experiments, trained model checkpoints, and analysis result images are all available at [Google Drive](https://drive.google.com/drive/folders/1MASMC40jaBUvP_gOQ0zbEOn6jA_BMgfd?usp=sharing)
 
-Deep learning部分使用的所有代码还存储于[Github](https://github.com/d-xiao/comp9517-project)
 All code used in the deep learning part is also stored on [Github](https://github.com/Wang-Jin-14479665/project_code.git)
 
 ## Experiments
